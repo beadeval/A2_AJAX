@@ -1,0 +1,7 @@
+
+{
+    "tamanos": ["Pequeña", "Mediana", "Grande", "Familiar", "Individual", "Grande"],
+    "ingredientes": ["Tomate", "Queso", "Bacon", "Barbacoa", "Jamon", "Piña", "Champiñón", "Alcaparras",
+                     "Albahaca", "Jamón Serrano", "Maiz"]
+  }
+
